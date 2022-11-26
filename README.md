@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi,
 
-<!--
-**RBingham99/RBingham99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Richard, welcome to my Github!
 
-Here are some ideas to get you started:
+I'm a full stack developer currently studying at iO academy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my repo's, some are more complete than others. 😂
+
+The pinned repos are working products, if you would like to see the live versions please visit my portfolio at 
+https://richard-bingham.com/ 
+where you can find links to them, as well as my contact information.
+
+Thank you for visiting! Have a great day! 😝
